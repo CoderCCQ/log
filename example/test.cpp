@@ -17,10 +17,6 @@ int main()
     LOGW("123");
     LOGE("123");
 
-//    for(int i = 0 ; i < 100000; i++)
-//    {
-//        LOGI("hiafiahifgoiagojaogjaojaogao %d %s", i, "hello world");
-//    }
 //    kdlog_finish();
     return 0;
 }
